@@ -17,4 +17,6 @@ My professional interests are quite diverse and lie in the fields of:
 Anyways, I'm interested in programming, computer networks and a lot of other things as well, but that should do for a start.
 Do you have any questions? Hit me via mail (lukas-samel (at) uni-bremen.de). Have a great day.</div>
 
-<div style="text-align: justify">Just in case you'd want to go back to the previous page, I'll leave you with a link [back](index.md). 'Cause I'm a good guy, you know?</div>
+<div style="text-align: justify">Just in case you'd want to go back to the previous page, I'll leave you with a link back. 'Cause I'm a good guy, you know?</div>
+
+[previous page](index.md)
