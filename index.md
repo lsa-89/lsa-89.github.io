@@ -8,4 +8,6 @@ My professional interests are quite diverse but mostly lie in the fields of:
 - Artificial intelligence and cognition 
 
 
-<div style="text-align: justify">You might have heard of Bremen, because of the famous football club Werder Bremen. Or because of Beck's beer. Anyways, I spend a lot of time with programming, computer networks and a lot of other things, like bouldering or writing music, as well. I created this tiny page to provide a little bit of personal information about myself and also to provide a selection of the work I have done in the past. If you want to find out more about these projects, you can find them [here](projects.md). That's about it. Have a great day!</div>
+<div style="text-align: justify">You might have heard of Bremen, because of the famous football club Werder Bremen. Or because of Beck's beer. Anyways, I spend a lot of time with programming, computer networks and a lot of other things, like bouldering or writing music, as well. I created this tiny page to provide a little bit of personal information about myself and also to provide a selection of the work I have done in the past. If you want to find out more about these projects, you can follow the link at the end of this paragraph. That's about it. Have a great day!</div>
+
+[Have a look at my projects](projects.md)
