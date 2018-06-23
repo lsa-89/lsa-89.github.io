@@ -8,7 +8,7 @@ My professional interests are quite diverse but mostly lie in the fields of:
 - Artificial intelligence and cognition 
 
 
-<div style="text-align: justify">You might have heard of Bremen, because of the famous football club Werder Bremen. Or because of Beck's beer. Anyways, I spend a lot of time with programming, computer networks and a lot of other things, like bouldering or writing music, as well. I created this tiny page to provide a little bit of personal information about myself and also to provide a selection of the work I have done in the past. If you want to find out more about these projects, you can find them</div> [here](projects.md).
+<div style="text-align: justify">You might have heard of Bremen, because of the famous football club Werder Bremen. Or because of Beck's beer. Anyways, I spend a lot of time with programming, computer networks and a lot of other things, like bouldering or writing music, as well. I created this tiny page to provide a little bit of personal information about myself and also to provide a selection of the work I have done in the past. If you want to find out more about these projects, you can follow this link.</div> [My projects](projects.md)
 
-If you want to get in contact, send me a mail to lukas-samel(at)uni-bremen.de! That's about it. Have a great day!
+<div style="text-align: justify">If you've got any questions or want to get in contact for some other reason, feel free to send me a mail to lukas-samel(at)uni-bremen.de! I think that's about it. Have a great day and keep coding!</div>
 
